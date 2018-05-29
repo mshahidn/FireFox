@@ -6,6 +6,8 @@ public class TestFar {
 	public void Cary() {
 		
 		System.out.println("I like my home in Cary");
+		
+		System.out.println("I like my home in Cary");
 	}
 
 }
