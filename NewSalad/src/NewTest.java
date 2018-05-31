@@ -6,6 +6,8 @@ public class NewTest {
 	public void Apple() {
 		
 		System.out.println("I like apple phone");
+		
+		System.out.println("I like apple phone");
 	}
 
 }
