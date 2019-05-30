@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="66827" started-at="2019-05-29T02:04:23Z" finished-at="2019-05-29T02:05:30Z">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="48056" started-at="2019-05-29T02:04:23Z" finished-at="2019-05-29T02:05:11Z">
+      <class name="JavaTest.WebDriverTest">
+        <test-method status="PASS" signature="Testdemo()[pri:0, instance:JavaTest.WebDriverTest@183967b]" name="Testdemo" duration-ms="47995" started-at="2019-05-29T02:04:23Z" finished-at="2019-05-29T02:05:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testdemo -->
+      </class> <!-- JavaTest.WebDriverTest -->
+    </test> <!-- Test2 -->
+    <test name="Test" duration-ms="66827" started-at="2019-05-29T02:04:23Z" finished-at="2019-05-29T02:05:30Z">
+      <class name="SeleniumFramework.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:SeleniumFramework.NewTest@1f5b51f]" name="beforeTest" is-config="true" duration-ms="36934" started-at="2019-05-29T02:04:23Z" finished-at="2019-05-29T02:05:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="WildTest()[pri:0, instance:SeleniumFramework.NewTest@1f5b51f]" name="WildTest" duration-ms="29883" started-at="2019-05-29T02:05:00Z" finished-at="2019-05-29T02:05:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WildTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:SeleniumFramework.NewTest@1f5b51f]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-05-29T02:05:30Z" finished-at="2019-05-29T02:05:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- SeleniumFramework.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
