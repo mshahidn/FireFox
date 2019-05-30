@@ -29,6 +29,8 @@ public class WebDriverTest {
 		
 		driver.get("https://github.com/bonigarcia/webdrivermanager");
 		
+		System.out.println("New Test Passed");
+		
 		
 		
 	}
